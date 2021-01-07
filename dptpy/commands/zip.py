@@ -18,7 +18,7 @@ class Zip():
         print("Zipping this project to Deploy at Deplux, Wait a moment..")
         with zipfile.ZipFile(f"deplux_build-{time}.zip", 'w') as myzip:
             for i in filelist:
-                myzip.write(i, compress_type=zipfile.ZIP_DEFLATED)
+                myzip.write(i)
             myzip.close()
         return print(f'Zip file has created at "deplux_build-{time}.zip", Enjoy')
 
@@ -30,7 +30,7 @@ class Zip():
         print("Zipping this project to Deploy at Deplux, Wait a moment..")
         with zipfile.ZipFile(f"deplux_build-{time}.zip", 'w') as myzip:
             for i in filelist:
-                myzip.write(os.path.join(os.getcwd(), i), compress_type=zipfile.ZIP_DEFLATED)
+                myzip.write(i)
             myzip.close()
         return print(f'Zip file has created at "deplux_build-{time}.zip", Enjoy')
 
