@@ -17,7 +17,7 @@ Deplux unofficial setuptools
 **Dptpy requires Python 3.7 or higher**
 
 ```sh
-python -m pip install --upgrade dptpy
+python -m pip install --upgrade --user dptpy
 ```
 
 ## CLI
