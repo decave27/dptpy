@@ -12,12 +12,12 @@ Deplux unofficial setuptools
 * Compress the root directory where you ran the command to a hosted file for Deplux
 
 
-## Installation
+## Installation(Administrator/Root)
 
 **Dptpy requires Python 3.7 or higher**
 
 ```sh
-python -m pip install --upgrade --user dptpy
+pip install dptpy
 ```
 
 ## CLI
