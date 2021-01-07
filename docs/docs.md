@@ -1,23 +1,24 @@
-# Dptpy Docs
-Deplux 비공식 설정 도구
 
-# 명령어들(옵션)
+# Dptpy Docs
+Deplux unofficial setuptools
+
+# commands
 ## --init/ --i / --setup
 
-배포를 위한 Dockerfile을 생성합니다
+Create a Dockerfile for distribution
 
 
 ## --new / --n / --create
 
-새로운 deplux 프로젝트를 만듭니다
+Create a new deplux project with README.md and manifest.json
 
 ## --zip / --z/  --build
 
-명령어를 실행한 루트 디렉터리를 Deplux용 호스팅 파일로 압축합니다
+Compress the root directory where you ran the command to a hosted file for Deplux
 
 ## --krhelp / --kh
 
-이 도움말 메세지를 출력합니다(KR)
+Prints help in Korean
 
 # Docs for Language
 
