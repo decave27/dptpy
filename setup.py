@@ -27,12 +27,14 @@ with open(f"{path}/README.md", encoding="UTF8") as f:
 setup(
     name="dptpy",
     author="decave27",
+    author_email="decave27@gmail.com",
     url="https://github.com/decave27/dptpy",
     project_urls={
         "Source": "https://github.com/decave27/dptpy/dptpy",
         "Tracker": "https://github.com/decave27/dptpy/issues",
     },
     version=version,
+    keywords = ['Deplux', 'cli', 'depluxtool', "depluxsetuptool"],
     packages=find_packages(),
     license="MIT",
     entry_points={

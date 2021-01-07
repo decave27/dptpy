@@ -1,4 +1,7 @@
 # Dptpy
+![PyPI](https://img.shields.io/pypi/v/dptpy?logo=pypi)
+![PyPI - License](https://img.shields.io/pypi/l/dptpy)
+
 Deplux unofficial setuptools
 
 
