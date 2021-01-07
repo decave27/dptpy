@@ -30,7 +30,7 @@ or
 dptpy (command)
 ```
 # CLI Commands
-+ [Docs]()
++ [Docs](https://github.com/decave27/dptpy/tree/main/docs)
 
 # Official 
 + [Easily organize your hosting with dpt(Deplux tool) [JS CLI]](https://github.com/Deplux/dpt)
