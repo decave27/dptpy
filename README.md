@@ -42,5 +42,7 @@ dptpy (command)
 + [Official Deplux Site](https://deplux.io/)
 
 
+## Support Discord Server
+https://discord.gg/SksjBSvuMn
 
 
